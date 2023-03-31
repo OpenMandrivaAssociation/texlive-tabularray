@@ -1,6 +1,6 @@
 Name:		texlive-tabularray
 Version:	64891
-Release:	1
+Release:	2
 Summary:	Typeset tabulars and arrays with LaTeX3
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabularray
