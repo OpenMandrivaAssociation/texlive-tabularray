@@ -1,5 +1,5 @@
 Name:		texlive-tabularray
-Version:	66276
+Version:	69926
 Release:	1
 Summary:	Typeset tabulars and arrays with LaTeX3
 Group:		Publishing
