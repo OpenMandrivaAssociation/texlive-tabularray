@@ -3,7 +3,7 @@ Version:	69926
 Release:	1
 Summary:	Typeset tabulars and arrays with LaTeX3
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabularray
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tabularray
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tabularray.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tabularray.doc.r%{version}.tar.xz
